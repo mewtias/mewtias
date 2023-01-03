@@ -1,7 +1,7 @@
 - 👋 hi, I’m @mewtias
 - 🌱 I’m currently learning node.js
 
-### languages & more
+### mew's tech
 
 ![javascript](https://img.shields.io/badge/javascript-red?style=for-the-badge&logo=javascript&color=F7DF1E&logoColor=222)
 ![react](https://img.shields.io/badge/react-red?style=for-the-badge&logo=react&color=61DAFB&logoColor=white)
