@@ -1,5 +1,5 @@
-- 👋 hi, I’m @mewtias
-- 🌱 I’m currently learning node.js
+- 👋 hi, I’m @mewtias nunez
+- 🌱 I’m currently learning node.js and react native
 
 ### mew's tech
 
