@@ -1,4 +1,4 @@
-![linkedin(]https://img.shields.io/badge/-mewtias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matinunez/)
+![linkedin](https://img.shields.io/badge/-mewtias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matinunez/)
 
 - 👋 hi, I’m @mewtias núñez 🇨🇱
 - 🔭 I’m currently working as Front End Developer @ propulsoW
