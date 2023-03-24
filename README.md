@@ -1,7 +1,7 @@
 ![linkedin](https://img.shields.io/badge/-mewtias-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matinunez/)
 
 - 👋 hi, I’m @mewtias núñez 🇨🇱
-- 🔭 I’m currently working as Front End Developer @ propulsoW
+- 🔭 I’m currently working as software engineer @ scotiabank
 - 🌱 I’m currently learning node.js, react native and vue.js
 
 ### mew's tech
