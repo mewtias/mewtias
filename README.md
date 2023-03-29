@@ -2,7 +2,7 @@
 
 - 👋 hi, I’m @mewtias núñez 🇨🇱
 - 🔭 I’m currently working as software engineer @ scotiabank
-- 🌱 I’m currently learning node.js, react native and vue.js
+- 🌱 I’m currently learning typescript
 
 ### mew's tech
 ![html5](https://img.shields.io/badge/HTML5-red?style=flat-square&logo=html5&color=FF7900&logoColor=white)
