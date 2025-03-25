@@ -4,6 +4,9 @@
 - 🔭 I’m currently working as software engineer @ scotiabank
 - 🌱 I’m currently improve my backend skills
 
+### side projects
+- [rapbattles.fyi 🎙️](https://rapbattles.fyi): web app that offers all the information and statistics about the rap battles universe
+
 ### mew's tech
 ![react](https://img.shields.io/badge/React-red?style=flat-square&logo=react&color=61DAFB&logoColor=white)
 ![typescript](https://img.shields.io/badge/TypeScript-red?style=flat-square&logo=typescript&color=3178C6&logoColor=white)
